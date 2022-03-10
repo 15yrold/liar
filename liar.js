@@ -1,2 +1,1 @@
-let liar = 'liar#1224'
-console.log(liar);
+console.log('liar#1224');
